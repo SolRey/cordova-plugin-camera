@@ -1,6 +1,6 @@
 {
-  "name": "cordova-plugin-camera",
-  "version": "6.0.0",
+  "name": "@solrey/cordova-plugin-camera",
+  "version": "1.0.0",
   "description": "Cordova Camera Plugin",
   "types": "./types/index.d.ts",
   "cordova": {
@@ -13,7 +13,7 @@
       "osx"
     ]
   },
-  "repository": "github:apache/cordova-plugin-camera",
+  "repository": "github:SolRey/cordova-plugin-camera",
   "bugs": "https://github.com/apache/cordova-plugin-camera/issues",
   "keywords": [
     "cordova",
